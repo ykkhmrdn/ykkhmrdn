@@ -2,7 +2,7 @@
 <img align="center" alt="web-developer" widht="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h3 align="justify">Passionate about coding and solving complex problems. I love to learn new things and always open to new opportunities.</h3>
 
-- 🌱 I’m currently learning **React, Express JS, Tailwind CSS, Flutter.**
+- 🌱 I’m currently learning **React, Express JS, Tailwind CSS, Flutter, Data Analytics.**
 
 - 👨‍💻 All of my projects are available at [https://ykkhmrdn.github.io/](https://ykkhmrdn.github.io/)
 
