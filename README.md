@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoko Khomarudin H</h1>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtY29ucXB4NnlxOG92OThydjhwcnprbmdxbWR6NWVpY2E3aXR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" />
-</div>
-
 # 💫 About Me
 🎓 Final year Informatics student at Alma Ata University
 
