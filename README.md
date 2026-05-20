@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoko Khomarudin H</h1>
 
 # 💫 About Me
-🎓 Final year Informatics student at Alma Ata University
+🎓 Fresh Graduate Informatics student at Alma Ata University
 
 🔭 Currently working as a **Freelance Fullstack Web Developer**
 
