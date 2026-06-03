@@ -3,7 +3,7 @@
 # 💫 About Me
 🎓 Fresh Graduate Informatics student at Alma Ata University
 
-🔭 Currently working as a **Freelance Fullstack Web Developer**
+🔭 Currently working as a **Fullstack Web Developer at BMT Beringharjo**
 
 🌱 Learning **Next.js**, **TypeScript** & **Modern Web Development**
 
