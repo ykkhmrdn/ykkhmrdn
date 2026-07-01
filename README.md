@@ -7,7 +7,7 @@
 
 🌱 Learning **Next.js**, **TypeScript** & **Modern Web Development**
 
-👨‍💻 All of my projects are available at [zyxkoo.me](https://www.zyxkoo.me)
+👨‍💻 All of my projects are available at [zyxkoo.dev](https://www.zyxkoo.dev)
 
 <div align="center">
   <a href="mailto:ykkhmrdn@gmail.com">
